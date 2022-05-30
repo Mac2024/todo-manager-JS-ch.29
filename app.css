@@ -38,7 +38,7 @@ main{
     background-size: cover;
 }
 ul#todoList{
-    background-color: rgb(204,204,204);
+    background-color: rgb(223 105 105);
     opacity: 0.5;
     width: 60%;
     padding: 2rem;
